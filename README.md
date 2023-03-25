@@ -8,4 +8,5 @@ This code may take more time for large collections of images. This is because th
 which can be a computationally expensive operation, especially if the images are large.
 
 How to run:
+
 just run newimgdup.py in visual code or any other python compiler,before that set correct location of file path in folder_path and then run the code.... 
